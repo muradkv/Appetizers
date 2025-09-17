@@ -1,0 +1,204 @@
+{
+  "request": [
+    {
+      "name": "Asian Flank Steak",
+      "description": "This perfectly thin cut just melts in your mouth.",
+      "protein": 14,
+      "id": 1,
+      "calories": 300,
+      "price": 8.99,
+      "carbs": 0,
+      "imageURL": "https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg"
+    },
+    {
+      "name": "Blackened Shrimp",
+      "description": "Seasoned Shrimp from the depths of the Atlantic Ocean.",
+      "protein": 4,
+      "id": 2,
+      "calories": 450,
+      "price": 6.99,
+      "imageURL": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "carbs": 3
+    },
+    {
+      "name": "Buffalo Chicken Bites",
+      "description": "The tasty bites of chicken have just the right amount of kick to them.",
+      "protein": 5,
+      "id": 3,
+      "calories": 800,
+      "price": 7.49,
+      "carbs": 22,
+      "imageURL": "https://www.themealdb.com/images/media/meals/ssshwk1628771827.jpg"
+    },
+    {
+      "name": "Classic Caesar Salad",
+      "description": "Crisp romaine lettuce with parmesan cheese, croutons, and Caesar dressing.",
+      "protein": 5,
+      "id": 4,
+      "calories": 470,
+      "price": 9.99,
+      "carbs": 15,
+      "imageURL": "https://www.themealdb.com/images/media/meals/41cbm01573069113.jpg"
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with fresh mozzarella, tomatoes, and basil.",
+      "protein": 12,
+      "id": 5,
+      "calories": 750,
+      "price": 12.5,
+      "carbs": 80,
+      "imageURL": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "Pasta with a creamy sauce made from eggs, cheese, and bacon.",
+      "protein": 25,
+      "id": 6,
+      "calories": 900,
+      "price": 14,
+      "carbs": 95,
+      "imageURL": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+    },
+    {
+      "name": "Grilled Salmon",
+      "description": "Perfectly grilled salmon fillet served with a side of asparagus.",
+      "protein": 40,
+      "id": 7,
+      "calories": 600,
+      "price": 18.99,
+      "carbs": 10,
+      "imageURL": "https://www.themealdb.com/images/media/meals/uuqvwu1504629275.jpg"
+    },
+    {
+      "name": "Mushroom Risotto",
+      "description": "Creamy risotto with a rich mushroom flavor.",
+      "protein": 8,
+      "id": 8,
+      "calories": 650,
+      "price": 13.5,
+      "carbs": 70,
+      "imageURL": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    },
+    {
+      "name": "Beef Tacos",
+      "description": "Three tacos with seasoned ground beef, lettuce, cheese, and salsa.",
+      "protein": 20,
+      "id": 9,
+      "calories": 550,
+      "price": 11.99,
+      "carbs": 35,
+      "imageURL": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg"
+    },
+    {
+      "name": "Vegetable Stir-fry",
+      "description": "A mix of fresh vegetables stir-fried in a savory sauce, served with rice.",
+      "protein": 7,
+      "id": 10,
+      "calories": 400,
+      "price": 10.5,
+      "carbs": 60,
+      "imageURL": "https://www.themealdb.com/images/media/meals/wqurxy1511453656.jpg"
+    },
+    {
+      "name": "Chicken Parmesan",
+      "description": "Breaded chicken breast topped with marinara sauce and melted mozzarella.",
+      "protein": 35,
+      "id": 11,
+      "calories": 850,
+      "price": 15.75,
+      "carbs": 45,
+      "imageURL": "https://www.themealdb.com/images/media/meals/toropv1606469557.jpg"
+    },
+    {
+      "name": "French Onion Soup",
+      "description": "A rich and savory soup with caramelized onions and a cheesy crouton topping.",
+      "protein": 9,
+      "id": 12,
+      "calories": 350,
+      "price": 6.5,
+      "carbs": 30,
+      "imageURL": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg"
+    },
+    {
+      "name": "Fish and Chips",
+      "description": "Battered and fried cod served with a side of thick-cut fries.",
+      "protein": 22,
+      "id": 13,
+      "calories": 950,
+      "price": 14.99,
+      "carbs": 85,
+      "imageURL": "https://www.themealdb.com/images/media/meals/hektpu1628771306.jpg"
+    },
+    {
+      "name": "Lobster Bisque",
+      "description": "A creamy and smooth soup made with fresh lobster.",
+      "protein": 10,
+      "id": 14,
+      "calories": 450,
+      "price": 10.99,
+      "carbs": 20,
+      "imageURL": "https://www.themealdb.com/images/media/meals/vjwsuy1511882971.jpg"
+    },
+    {
+      "name": "Pork Chops with Applesauce",
+      "description": "Grilled pork chops served with a side of homemade applesauce.",
+      "protein": 30,
+      "id": 15,
+      "calories": 700,
+      "price": 16.5,
+      "carbs": 25,
+      "imageURL": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg"
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "description": "A warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+      "protein": 6,
+      "id": 16,
+      "calories": 600,
+      "price": 7.99,
+      "carbs": 70,
+      "imageURL": "https://www.themealdb.com/images/media/meals/vptwyt1511440438.jpg"
+    },
+    {
+      "name": "New York Cheesecake",
+      "description": "A classic rich and creamy cheesecake with a graham cracker crust.",
+      "protein": 8,
+      "id": 17,
+      "calories": 550,
+      "price": 6.99,
+      "carbs": 50,
+      "imageURL": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg"
+    },
+    {
+      "name": "Tiramisu",
+      "description": "A coffee-flavored Italian dessert made with ladyfingers and mascarpone cheese.",
+      "protein": 7,
+      "id": 18,
+      "calories": 480,
+      "price": 8.5,
+      "carbs": 45,
+      "imageURL": "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg"
+    },
+    {
+      "name": "Apple Pie a la Mode",
+      "description": "A slice of warm apple pie topped with a scoop of vanilla ice cream.",
+      "protein": 4,
+      "id": 19,
+      "calories": 650,
+      "price": 7.25,
+      "carbs": 85,
+      "imageURL": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "name": "Fruit Pavlova",
+      "description": "A refreshing assortment of seasonal fresh fruits.",
+      "protein": 2,
+      "id": 20,
+      "calories": 200,
+      "price": 9.5,
+      "carbs": 50,
+      "imageURL": "https://www.themealdb.com/images/media/meals/wssvqt1511796192.jpg"
+    }
+  ]
+}
